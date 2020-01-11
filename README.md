@@ -1,0 +1,2 @@
+# tabslImageTags
+OXID SEO-Bildermodul
